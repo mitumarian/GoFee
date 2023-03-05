@@ -15,7 +15,7 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="NewPage1.xaml">
+    <MauiXaml Update="View\NewPage1.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

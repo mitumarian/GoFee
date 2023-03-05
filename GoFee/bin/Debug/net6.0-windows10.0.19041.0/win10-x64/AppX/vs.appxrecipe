@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-05T13:59:17.188</Modified>
+      <Modified>2023-03-05T15:15:30.020</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-05T13:59:16.553</Modified>
+      <Modified>2023-03-05T15:15:29.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\GoFee.runtimeconfig.json">
       <PackagePath>GoFee.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-05T13:22:16.931</Modified>
+      <Modified>2023-03-05T15:13:54.719</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\GoFee.dll">
       <PackagePath>GoFee.dll</PackagePath>
-      <Modified>2023-03-05T13:59:14.995</Modified>
+      <Modified>2023-03-05T15:15:27.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Licenta\GoFee\GoFee\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>GoFee.exe</PackagePath>
-      <Modified>2023-03-05T13:59:15.006</Modified>
+      <Modified>2023-03-05T15:15:27.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.13\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -965,6 +965,10 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-11-16T01:34:42.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\communitytoolkit.mvvm\8.1.0\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-01-17T22:56:14.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
       <Modified>2022-02-24T00:12:18.000</Modified>
@@ -1087,7 +1091,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Licenta\GoFee\GoFee\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\GoFee.deps.json">
       <PackagePath>GoFee.deps.json</PackagePath>
-      <Modified>2023-03-05T13:59:16.964</Modified>
+      <Modified>2023-03-05T15:15:29.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.maui.controls.ref.win\6.0.548\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
