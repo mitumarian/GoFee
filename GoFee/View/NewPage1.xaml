@@ -42,7 +42,7 @@
 
         <CollectionView.ItemTemplate>
             <DataTemplate x:DataType="model:Product">
-                <Frame CornerRadius="15" Margin="10,10,10,10" Padding="5" BackgroundColor="ForestGreen">
+                <Frame CornerRadius="15" Margin="10,10,10,10" Padding="5" BackgroundColor="{DynamicResource Primary}">
                     <StackLayout Orientation="Horizontal" HeightRequest="100">
                     <StackLayout Orientation="Vertical" HeightRequest="100" HorizontalOptions="FillAndExpand">
                             <Label Text="{Binding Name}" FontSize="22" VerticalOptions="Start" Padding="5,0,0,0" />

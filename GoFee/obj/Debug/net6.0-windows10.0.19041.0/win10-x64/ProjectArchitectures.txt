@@ -1,1 +1,1 @@
-D:\Licenta\GoFee\GoFee\GoFee.csproj;x64
+C:\Users\Mitu\source\repos\mitumarian\GoFee\GoFee\GoFee.csproj;x64

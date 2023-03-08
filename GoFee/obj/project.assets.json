@@ -27956,24 +27956,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Users\\Mitu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Licenta\\GoFee\\GoFee\\GoFee.csproj",
+      "projectUniqueName": "C:\\Users\\Mitu\\Source\\Repos\\mitumarian\\GoFee\\GoFee\\GoFee.csproj",
       "projectName": "GoFee",
-      "projectPath": "D:\\Licenta\\GoFee\\GoFee\\GoFee.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Licenta\\GoFee\\GoFee\\obj\\",
+      "projectPath": "C:\\Users\\Mitu\\Source\\Repos\\mitumarian\\GoFee\\GoFee\\GoFee.csproj",
+      "packagesPath": "C:\\Users\\Mitu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mitu\\Source\\Repos\\mitumarian\\GoFee\\GoFee\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mitu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

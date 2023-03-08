@@ -1145,6 +1145,102 @@ app_system_properties:
 .L.env.buf.271:
 	.zero	70
 	.size	.L.env.buf.271, 70
+	.type	.L.env.buf.272, %object
+.L.env.buf.272:
+	.zero	70
+	.size	.L.env.buf.272, 70
+	.type	.L.env.buf.273, %object
+.L.env.buf.273:
+	.zero	70
+	.size	.L.env.buf.273, 70
+	.type	.L.env.buf.274, %object
+.L.env.buf.274:
+	.zero	70
+	.size	.L.env.buf.274, 70
+	.type	.L.env.buf.275, %object
+.L.env.buf.275:
+	.zero	70
+	.size	.L.env.buf.275, 70
+	.type	.L.env.buf.276, %object
+.L.env.buf.276:
+	.zero	70
+	.size	.L.env.buf.276, 70
+	.type	.L.env.buf.277, %object
+.L.env.buf.277:
+	.zero	70
+	.size	.L.env.buf.277, 70
+	.type	.L.env.buf.278, %object
+.L.env.buf.278:
+	.zero	70
+	.size	.L.env.buf.278, 70
+	.type	.L.env.buf.279, %object
+.L.env.buf.279:
+	.zero	70
+	.size	.L.env.buf.279, 70
+	.type	.L.env.buf.280, %object
+.L.env.buf.280:
+	.zero	70
+	.size	.L.env.buf.280, 70
+	.type	.L.env.buf.281, %object
+.L.env.buf.281:
+	.zero	70
+	.size	.L.env.buf.281, 70
+	.type	.L.env.buf.282, %object
+.L.env.buf.282:
+	.zero	70
+	.size	.L.env.buf.282, 70
+	.type	.L.env.buf.283, %object
+.L.env.buf.283:
+	.zero	70
+	.size	.L.env.buf.283, 70
+	.type	.L.env.buf.284, %object
+.L.env.buf.284:
+	.zero	70
+	.size	.L.env.buf.284, 70
+	.type	.L.env.buf.285, %object
+.L.env.buf.285:
+	.zero	70
+	.size	.L.env.buf.285, 70
+	.type	.L.env.buf.286, %object
+.L.env.buf.286:
+	.zero	70
+	.size	.L.env.buf.286, 70
+	.type	.L.env.buf.287, %object
+.L.env.buf.287:
+	.zero	70
+	.size	.L.env.buf.287, 70
+	.type	.L.env.buf.288, %object
+.L.env.buf.288:
+	.zero	70
+	.size	.L.env.buf.288, 70
+	.type	.L.env.buf.289, %object
+.L.env.buf.289:
+	.zero	70
+	.size	.L.env.buf.289, 70
+	.type	.L.env.buf.290, %object
+.L.env.buf.290:
+	.zero	70
+	.size	.L.env.buf.290, 70
+	.type	.L.env.buf.291, %object
+.L.env.buf.291:
+	.zero	70
+	.size	.L.env.buf.291, 70
+	.type	.L.env.buf.292, %object
+.L.env.buf.292:
+	.zero	70
+	.size	.L.env.buf.292, 70
+	.type	.L.env.buf.293, %object
+.L.env.buf.293:
+	.zero	70
+	.size	.L.env.buf.293, 70
+	.type	.L.env.buf.294, %object
+.L.env.buf.294:
+	.zero	70
+	.size	.L.env.buf.294, 70
+	.type	.L.env.buf.295, %object
+.L.env.buf.295:
+	.zero	70
+	.size	.L.env.buf.295, 70
 	@ Bundled assemblies data
 
 	.type	bundled_assemblies, %object
@@ -3057,7 +3153,175 @@ bundled_assemblies:
 	.long	0x0	@ name_length
 	.long	.L.env.buf.271	@ name
 
-	.size	bundled_assemblies, 6528
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.272	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.273	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.274	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.275	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.276	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.277	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.278	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.279	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.280	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.281	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.282	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.283	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.284	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.285	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.286	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.287	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.288	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.289	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.290	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.291	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.292	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.293	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.294	@ name
+
+	.long	0xffffffff	@ apk_fd
+	.long	0x0	@ data_offset
+	.long	0x0	@ data_size
+	.long	0x0	@ data
+	.long	0x0	@ name_length
+	.long	.L.env.buf.295	@ name
+
+	.size	bundled_assemblies, 7104
 	@ Assembly store individual assembly data
 	.type	assembly_store_bundled_assemblies, %object
 	.global	assembly_store_bundled_assemblies
@@ -3389,7 +3653,7 @@ application_config:
 	.long	0x3	@ package_naming_policy
 	.long	0xc	@ environment_variable_count
 	.long	0x0	@ system_property_count
-	.long	0x110	@ number_of_assemblies_in_apk
+	.long	0x128	@ number_of_assemblies_in_apk
 	.long	0x46	@ bundled_assembly_name_width
 	.long	0x2	@ number_of_assembly_store_files
 	.long	0x24	@ number_of_dso_cache_entries
@@ -3441,7 +3705,7 @@ application_config:
 
 	.type	.L.autostr.8, %object
 .L.autostr.8:
-	.asciz	"0c4d6b08-6371-41c6-9abe-dc2aeab32868"
+	.asciz	"91cbbf6e-1d0b-42d7-add3-c6e4a9930737"
 	.size	.L.autostr.8, 37
 
 	.type	.L.autostr.9, %object
