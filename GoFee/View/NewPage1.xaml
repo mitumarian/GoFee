@@ -8,23 +8,54 @@
     <CollectionView>
         <CollectionView.ItemsSource>
             <x:Array Type="{x:Type model:Product}">
-                <model:Product Name="Cappucino"/>
-                <model:Product Name="Espresso"/>
-                <model:Product Name="Ice Late"/>
+                <model:Product Name="Cappucino"
+                               Image="https://raw.githubusercontent.com/mitumarian/GoFee/master/GoFee/Resources/Images/cappuccino.png?token=GHSAT0AAAAAAB7TJIX54JJEAFWULT4HCHSCZAEWTJQ"
+                               Description="1 shot of espresso and 200ml of milk"
+                               Price="2.99"/>
+
+                <model:Product Name="Espresso"
+                               Image="https://raw.githubusercontent.com/mitumarian/GoFee/master/GoFee/Resources/Images/cappuccino.png?token=GHSAT0AAAAAAB7TJIX54JJEAFWULT4HCHSCZAEWTJQ"
+                               Description="1 shot of espresso"
+                               Price="1.99"/>
+                <model:Product Name="Ice Late"
+                               Image="https://raw.githubusercontent.com/mitumarian/GoFee/master/GoFee/Resources/Images/cappuccino.png?token=GHSAT0AAAAAAB7TJIX54JJEAFWULT4HCHSCZAEWTJQ"
+                               Description="1 shot of espresso with Ice and Milk"
+                               Price="3.99"/>
+                <model:Product Name="Ice Late"
+                               Image="https://raw.githubusercontent.com/mitumarian/GoFee/master/GoFee/Resources/Images/cappuccino.png?token=GHSAT0AAAAAAB7TJIX54JJEAFWULT4HCHSCZAEWTJQ"
+                               Description="1 shot of espresso with Ice and Milk"
+                               Price="3.99"/>
+                <model:Product Name="Ice Late"
+                               Image="https://raw.githubusercontent.com/mitumarian/GoFee/master/GoFee/Resources/Images/cappuccino.png?token=GHSAT0AAAAAAB7TJIX54JJEAFWULT4HCHSCZAEWTJQ"
+                               Description="1 shot of espresso with Ice and Milk"
+                               Price="3.99"/>
+                <model:Product Name="Ice Late"
+                               Image="https://raw.githubusercontent.com/mitumarian/GoFee/master/GoFee/Resources/Images/cappuccino.png?token=GHSAT0AAAAAAB7TJIX54JJEAFWULT4HCHSCZAEWTJQ"
+                               Description="1 shot of espresso with Ice and Milk"
+                               Price="3.99"/>
+                <model:Product Name="Ice Late"
+                               Image="https://raw.githubusercontent.com/mitumarian/GoFee/master/GoFee/Resources/Images/cappuccino.png?token=GHSAT0AAAAAAB7TJIX54JJEAFWULT4HCHSCZAEWTJQ"
+                               Description="1 shot of espresso with Ice and Milk"
+                               Price="3.99"/>
             </x:Array>
         </CollectionView.ItemsSource>
 
         <CollectionView.ItemTemplate>
             <DataTemplate x:DataType="model:Product">
-                <HorizontalStackLayout>
-                    <Image Source="{Binding Image}"
-                           HeightRequest="100"
-                           WidthRequest="100"
-                           Aspect="AspectFill"/>
-                    <VerticalStackLayout Padding="10">
-                        <Label Text="{Binding Name}" FontSize="24"/>
-                    </VerticalStackLayout>
-                </HorizontalStackLayout>
+                <Frame CornerRadius="15" Margin="10,10,10,10" Padding="5" BackgroundColor="ForestGreen">
+                    <StackLayout Orientation="Horizontal" HeightRequest="100">
+                    <StackLayout Orientation="Vertical" HeightRequest="100" HorizontalOptions="FillAndExpand">
+                            <Label Text="{Binding Name}" FontSize="22" VerticalOptions="Start" Padding="5,0,0,0" />
+                            <Label Text="{Binding Description}" FontSize="12" Padding="5,0,0,0" />
+                            <Label Text="{Binding Price, StringFormat='{0} lei'}" FontSize="  18" VerticalOptions="EndAndExpand" Padding="5,0,0,0" />
+                        </StackLayout>
+                        <Image Margin="0,0,10,0" Source="{Binding Image}"
+                           HeightRequest="67"
+                           WidthRequest="67"
+                           Aspect="AspectFill"
+                           HorizontalOptions="End"/>
+                    </StackLayout>
+                </Frame>
             </DataTemplate>
         </CollectionView.ItemTemplate>
     </CollectionView>

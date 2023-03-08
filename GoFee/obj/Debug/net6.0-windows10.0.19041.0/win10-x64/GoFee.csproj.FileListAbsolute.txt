@@ -252,7 +252,6 @@ D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dl
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.1322.58009.dll
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -365,3 +364,5 @@ D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLR
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
 D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+D:\Licenta\GoFee\GoFee\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\cappuccino.scale-100.png
+D:\Licenta\GoFee\GoFee\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.1423.7309.dll
