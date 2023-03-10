@@ -8,7 +8,8 @@ namespace GoFee.ViewModel
 {
     internal partial class BaseViewModel : ObservableObject
     {
-        public BaseViewModel() {
+        public BaseViewModel()
+        {
         
         }
 
